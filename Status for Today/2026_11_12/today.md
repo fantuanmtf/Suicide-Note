@@ -15,7 +15,7 @@
 - ETH Donation:**0x0Ad817F7Ca658B3D2D83Ab019F2AeA5645a5b672**
 - TRX Donation:**TURVfsvjZw2X7zhGAj7ohpAL1hTMnLQPmd**
 - Bitcoin Donation**bc1qnnkqfgap6pelzz0293ks2e2py99lscg9zfnjxy**
-- BCH Donation:**7jsSqbKJuaE9jaG64tiy65A6Pnmqi55YU9qTtQtVUUzh**
+- BCH Donation:**bitcoincash:qrnyczppcmxkj7r2ajddsvsh6el4s4v9fvfgs0wl9h**
 - SOL Donation:**7jsSqbKJuaE9jaG64tiy65A6Pnmqi55YU9qTtQtVUUzh**
 
 `Donations are not required.`
